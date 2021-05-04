@@ -1,1 +1,214 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T22:50:14.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.10" etag="Cn6SIhIAC85kfdvzgPjA" type="github"><diagram id="vrNQlaWHsLL3zRUcT6XB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-04T23:43:42.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="AuU_NYQ7VVofHqoPsd2p" version="14.6.10" type="github">
+  <diagram id="vrNQlaWHsLL3zRUcT6XB" name="Page-1">
+    <mxGraphModel dx="5167" dy="2250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" target="zIVrBXXhYB8JiQhFM65D-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="400" as="targetPoint" />
+            <mxPoint x="420" y="280" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="414" y="330" />
+              <mxPoint x="230" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="330" />
+              <mxPoint x="660" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-5" value="&lt;h3 style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold ; font-size: 17px&quot;&gt;TIPOS DE CLIENTES&lt;/h3&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Courier New;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="301" y="150" width="226" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-7" target="zIVrBXXhYB8JiQhFM65D-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="555" />
+              <mxPoint x="175" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-7" value="&lt;h3 style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;•1. POR SU NIVEL DE SATISFACCIÓN.&amp;nbsp;&lt;/font&gt;&lt;/h3&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Courier New;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-12" target="zIVrBXXhYB8JiQhFM65D-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-12" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold ; font-size: 13px&quot;&gt;•CLIENTE MUY SATISFECHO:&amp;nbsp; ESTOS CLIENTES SON SATISFECHOS POR QUE CONSIDERAN QUE EL&lt;br&gt;PRODUCTO Y EL SERVICIO QUE RECIBE SOBREPSA SUS EXPECTATIVAS.&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="590" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-15" target="zIVrBXXhYB8JiQhFM65D-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-15" target="zIVrBXXhYB8JiQhFM65D-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-15" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold&quot;&gt;•CLIENTE SATISFECHO : &lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold&quot;&gt;•SE MUESTRA CONTENIDO CON LAS PROPUESTA QUE RECIBE , PERO&lt;br/&gt;PODRIA CAMBIAR SI SE LE OFRECE ALGO QUE SUEPERE.&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="810" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-17" target="zIVrBXXhYB8JiQhFM65D-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-17" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold&quot;&gt;•CLIENETE INSATISFECHO :&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold&quot;&gt;• ES EL QUE PERCIBE QUE EL OFRECIMIENTO ENTREGADO NO&lt;br/&gt;CORRESPONDE A LO QUE DESEABA.&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="810" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-19" target="zIVrBXXhYB8JiQhFM65D-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-19" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-size: 17px ; font-weight: bold&quot;&gt;&lt;span&gt;•&lt;/span&gt;&lt;span&gt;2. POR EL VOLUMEN DE COMPRA.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Courier New;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="550" y="390" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-21" target="zIVrBXXhYB8JiQhFM65D-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="820" />
+              <mxPoint x="560" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-21" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-size: 10px&quot;&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-size: 16px&quot;&gt;&lt;b&gt;&lt;span&gt;•&lt;/span&gt;&lt;span&gt;CLIENTES DE ALTO VOLUMEN DE COMPRA: SON CLIENETES QUE ESTÁN SATISFECHOS&lt;br&gt;CON EL PRODUCTO Y REALIZAN COMPRAS EN GRANDES CANTIDADES QUE SU PARTICIPACIÓN&lt;br&gt;ES DE&amp;nbsp; 50% Y UN 80%.&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="500" y="560" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-24" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold&quot;&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in&quot;&gt;&lt;span&gt;•&lt;/span&gt;&lt;span&gt;CLIENTES CON VOLUMEN PROMEDIO DE COMPRA:&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in&quot;&gt;&lt;span&gt;•&lt;/span&gt;&lt;span&gt; SON LOS QUE COMPRAN EN FORMA REPETIDA EN UN VOLUMEN PROMEDIO.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="470" y="840" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-27" target="zIVrBXXhYB8JiQhFM65D-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-27" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;•CLIENTES DE BAJO VOLUMEN DE COMPRA:&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;•SU CAPACIDDAD ADQUISITIVA NO LES PERMIETE COMPRAR EN MAYOR CANTIDAD.&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="677" y="830" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-28" target="zIVrBXXhYB8JiQhFM65D-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="1180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="155" y="1190" />
+              <mxPoint x="80" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-28" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-size: 14.0pt ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 14.0pt&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;3. POR SU INFLUENCIA.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Courier New;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1070" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-32" target="zIVrBXXhYB8JiQhFM65D-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-32" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;•CLIENTES MUY INFLUYENTES:&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;• SON AQUELLOS QUE TIENEN UNA INFLUENCIA MUY ALTA PARA GENERAR UNA OPINIÓN&lt;br&gt;POSITIVA O NEGATIVA.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1230" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-36" target="zIVrBXXhYB8JiQhFM65D-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-36" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;•CLIENTES CON INFLUENCIA PROMEDIO:&lt;/font&gt;&lt;/div&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 14.0pt&quot;&gt;•&lt;/span&gt;&lt;span&gt;SON PERSONAS QUE AL HABLAR BIEN O MAL DEL PRODUCTO PUEDE PROMOVER A UN&lt;br&gt;BUEN NÚMERO DE PERSONAS PARA QUE PRUEBEN EL PRODUCTO.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1230" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="1810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="1600" />
+              <mxPoint x="390" y="1600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-40" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold ; font-size: 16px&quot;&gt;&lt;span style=&quot;font-size: 14pt&quot;&gt;•&lt;/span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;CLIENTES DE INFLUENCIA FAMILIAR :&lt;/font&gt;&lt;/div&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-size: 14.0pt ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 14.0pt&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;AQUELLOS QUE PUEDEN INFLUIR SOBRE LA DECISIÓN DE COMPRA DENTRO DE LOS&lt;br&gt;GRUPOS FAMILIARES.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1500" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-44" target="zIVrBXXhYB8JiQhFM65D-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="1200" />
+              <mxPoint x="570" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-44" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-size: 14.0pt ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 14.0pt&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;4.POR SU FRECUENCIA&lt;/span&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Courier New;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1070" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-49" target="zIVrBXXhYB8JiQhFM65D-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-49" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold ; font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;•CLIENTES DE COMPRA FRECUENTE:&lt;/font&gt;&lt;/div&gt;&lt;br style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 14pt&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;S&lt;/span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;ON AQUELLOS QUE COMPRAN DE FORMA PERIODICA LOS PRODUCTOS &lt;/font&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1230" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-51" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold ; font-size: 15px&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;•&lt;/span&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;CLIENTE DE COMPRAHABITUAL:&lt;/font&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;•SON LOS QUE COMPRAN CON CIERTO PATRÓN DE REGULARIDAD&lt;/font&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1235" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="1810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="1600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-55" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;•CLIENTE DE COMPRA OCASIONAL:&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-weight: bold ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;•SON LOS QUE SE ACERCAN A DEMANDAR LOS BIENES Y SERVICIOS DE&lt;br&gt;LA EMRESA.&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1500" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="2000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="1" source="zIVrBXXhYB8JiQhFM65D-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="2000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-59" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-size: 14.0pt ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 14.0pt&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;font-size: 14pt&quot;&gt;5. POR SU VIGENCIA.&lt;/span&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Courier New;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1780" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-62" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-size: 14.0pt ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 14.0pt&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;font-size: 14pt&quot;&gt;CLIENTE ACTIVO:&lt;/span&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-size: 14.0pt ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 14.0pt&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;font-size: 14pt&quot;&gt;SON LOS QUE COMPRAN CON CIERTA REGULARIDAD EN EL NEGOCIO Y FORMAN EL&lt;br/&gt;NIVEL DE VENTAS Y DE INGRESOS.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="110" y="2000" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="zIVrBXXhYB8JiQhFM65D-63" value="&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-size: 14.0pt ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 14.0pt&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;font-size: 14pt&quot;&gt;CLIENTES INACTIVOS:&lt;/span&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in ; font-size: 14.0pt ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 14.0pt&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;font-size: 14pt&quot;&gt;ES EL QUE COMPRO EN ALGUNA OPORTUNIDAD PERO POR ALGUNA RAZÓN YA NO LO&lt;br/&gt;HACE.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2000" width="220" height="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
